@@ -20,7 +20,7 @@ Organize your material into logical sections.
 Use headings, lists, and math as needed.
 
 == Example
-This document supports both inline math like $E = mc^2$ and display math:
+This document supports both inline math like $E = m c^2$ and display math:
 $ a^2 + b^2 = c^2. $
 
 = Discussion
