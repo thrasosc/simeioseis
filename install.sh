@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-PKG_NAME="simeioseis"
+PKG_NAME="notes"
 PKG_VERSION="1.0.0"
 NAMESPACE="local"
 

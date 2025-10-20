@@ -1,6 +1,6 @@
-#import "@local/simeioseis:1.0.0": simeioseis
+#import "@local/notes:1.0.0": *
 
-#show: simeioseis.with(
+#show: notes.with(
   title: "Course Notes",
   author: "John Doe",
 )

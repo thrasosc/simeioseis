@@ -1,5 +1,5 @@
 [package]
-name = "simeioseis"
+name = "notes"
 version = "1.0.0"
 entrypoint = "lib.typ"
 authors = ["Thrasos Charalambous"]

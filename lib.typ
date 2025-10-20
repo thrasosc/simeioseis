@@ -1,4 +1,4 @@
-#let simeioseis(
+#let notes(
   title: "[Title]",
   author: "[Author]",
   doc,

@@ -1,4 +1,4 @@
-# Simeioseis
+# Typst CS Notes
 
 Academic notes template for Typst
 
@@ -20,9 +20,9 @@ This copies the package into Typst’s local directory:
 Import the package in your Typst document:
 
 ```typst
-#import "@local/simeioseis:1.0.0": conf
+#import "@local/notes:1.0.0": conf
 
-#show: simeioseis.with(
+#show: notes.with(
   title: "Calculus Notes",
   author: "Thrasos Charalambous"
 )
