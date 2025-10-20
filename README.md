@@ -1,6 +1,6 @@
 # Simeioseis
 
-A Typst template for clean, academic notes.
+Academic notes template for Typst
 
 ## Installation
 To install locally on macOS:

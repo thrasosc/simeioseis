@@ -1,7 +1,11 @@
 [package]
 name = "simeioseis"
 version = "1.0.0"
-entrypoint = "src/simeioseis.typ"
+entrypoint = "lib.typ"
 authors = ["Thrasos Charalambous"]
-description = "Typst template for academic notes"
 license = "MIT"
+description = "Academic notes template for Typst"
+
+[template]
+path = "template"
+entrypoint = "main.typ"
