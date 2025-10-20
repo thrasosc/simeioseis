@@ -1,0 +1,7 @@
+[package]
+name = "simeioseis"
+version = "1.0.0"
+entrypoint = "src/simeioseis.typ"
+authors = ["Thrasos Charalambous"]
+description = "Typst template for academic notes"
+license = "MIT"
