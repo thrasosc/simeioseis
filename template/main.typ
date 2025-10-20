@@ -6,8 +6,7 @@
 )
 
 = Introduction
-Write a short summary of the topic or problem you are studying.
-Explain context and objectives clearly.
+Write a short summary of the topic or problem you are studying. Explain context and objectives clearly.
 
 = Background
 Provide definitions, prior work, or theoretical concepts needed to understand your notes.
@@ -16,12 +15,10 @@ Provide definitions, prior work, or theoretical concepts needed to understand yo
 List or explain important terms, symbols, or abbreviations.
 
 = Main Content
-Organize your material into logical sections.
-Use headings, lists, and math as needed.
+Organize your material into logical sections. Use headings, lists, and math as needed.
 
 == Example
-This document supports both inline math like $E = m c^2$ and display math:
-$ a^2 + b^2 = c^2. $
+This document supports both inline math like $E = m c^2$ and display math: $ a^2 + b^2 = c^2. $
 
 = Discussion
 Summarize insights, limitations, or open questions.
