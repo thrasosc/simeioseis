@@ -1,8 +1,8 @@
 #import "@local/notes:1.0.0": *
 
 #show: notes.with(
-  title: "Course Notes",
-  author: "John Doe",
+  doc_title: "Course Notes",
+  doc_author: "John Doe",
 )
 
 = Introduction
