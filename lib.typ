@@ -32,8 +32,8 @@
       scope: "parent",
       clearance: 2em,
       {
-        title()
-  
+        // title()
+
         doc_author
       }
     )
