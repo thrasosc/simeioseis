@@ -24,7 +24,8 @@
   set par(justify: true)
   set heading(numbering: "1.1")
   set text(size: 12pt)
-
+  show quote: set align(center)
+  
   // Title page
   place(
       top + center,
