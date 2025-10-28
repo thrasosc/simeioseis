@@ -1,11 +1,11 @@
 #import "@preview/frame-it:1.2.0": *
 
-#let (example, feature, variant, syntax) = frames(
-  feature: ("Feature",),
+#let (example, question, variant, syntax) = frames(
+  question: ("Question",),
   // For each frame kind, you have to provide its supplement title to be displayed
   variant: ("Variant",),
   // You can provide a color or leave it out and it will be generated
-  example: ("Example", gray),
+  example: ("Example",),
   // You can add as many as you want
   syntax: ("Syntax",),
 )
